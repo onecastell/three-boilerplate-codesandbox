@@ -1,0 +1,17 @@
+{
+  "name": "three-boilerplate-codesandbox",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "webpack --mode=development",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "three": "^0.111.0",
+    "three-orbitcontrols": "^2.102.1"
+  },
+  "version": ""
+}
